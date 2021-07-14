@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# CodingBeginner's note
 
-You can use the [editor on GitHub](https://github.com/CodingBeginnerK/coding_memo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+note.nkmkさんのように、プログラミング言語を用いた操作をまとめていく。  
+Pythonについてはすでに膨大な数のブログが存在しているので、これから広まっていくであろうJulia言語による操作を主に書き留めていく。
 
 ### Markdown
 
