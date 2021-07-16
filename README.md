@@ -1,9 +1,9 @@
 # CodingBeginner's note
+## このブログについて
+プログラミング初心者が、プログラミング言語を用いた操作について学んだことを書き留めていく。
+Pythonについてはすでに膨大な数のブログが存在しているので、現在広まりつつあるJulia言語による操作を主に書き留めていく。
 
-note.nkmkさんのように、プログラミング言語を用いた操作をまとめていく。  
-Pythonについてはすでに膨大な数のブログが存在しているので、これから広まっていくであろうJulia言語による操作を主に書き留めていく。
-
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
